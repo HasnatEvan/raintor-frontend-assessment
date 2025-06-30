@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "html",
+    "slug": "top-5-frontend-frameworks-2025",
+    "category": "Development",
+    "date": "2025-06-01",
+    "excerpt": "In this post, we explore the most influential frontend frameworks that are making waves in 2025. Whether you're building a portfolio site or a complex web application, understanding the strengths and trade-offs of these frameworks will help you choose the right one for your next project.",
+    "description": "Frontend development is evolving at a rapid pace, and in 2025, developers have a wide variety of tools to choose from. This blog explores React.js with its advanced concurrent features and strong ecosystem; Vue 3, known for the Composition API and simplicity; Svelte, which compiles into highly performant JavaScript; Angular, a complete platform for enterprise apps; and Solid.js, gaining attention for its fine-grained reactivity model. The post also compares these frameworks in terms of learning curve, performance benchmarks, documentation quality, community support, and real-world usage examples.",
+    "image": "https://i.ibb.co/84zXV9qV/programming-background-collage-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "js",
+    "slug": "understanding-javascript-es2025-features",
+    "category": "Development",
+    "date": "2025-05-15",
+    "excerpt": "JavaScript continues to evolve, and ES2025 brings exciting features to the language. This article dives deep into new syntax improvements and patterns, helping developers write cleaner, more efficient, and future-proof code while adopting modern programming practices.",
+    "description": "ES2025 introduces several exciting new features to JavaScript, including improved pattern matching, record & tuple data structures, and better asynchronous handling. This blog covers each feature in depth with practical examples and tips on how to adopt them in your projects.",
+    "image": "https://i.ibb.co/1mJX0Lf/js-modern.jpg"
+  },
+  {
+    "id": 3,
+    "title": "css",
+    "slug": "css-grid-vs-flexbox-usage",
+    "category": "Design",
+    "date": "2025-04-28",
+    "excerpt": "If you're struggling to choose between CSS Grid and Flexbox, this article is for you. We break down each layout system, explain how and when to use them, and show real-world scenarios where one outshines the other for modern responsive design.",
+    "description": "Choosing between CSS Grid and Flexbox can be confusing. This article explains their differences, strengths, and ideal use cases, helping you decide which to use depending on your layout needs. You'll also see examples of how to combine both for powerful layouts.",
+    "image": "https://i.ibb.co/qgXxnDw/css-grid-flexbox.jpg"
+  },
+  {
+    "id": 4,
+    "title": "nextjs",
+    "slug": "optimize-web-performance-2025",
+    "category": "Performance",
+    "date": "2025-06-10",
+    "excerpt": "Fast websites retain users and rank higher in search results. This post shares advanced strategies for optimizing website performance in 2025, including caching, lazy loading, image optimization, and how to measure success using performance tools.",
+    "description": "Web performance is critical to user experience and SEO. This article explores optimization techniques like lazy loading, code splitting, efficient caching, and using modern image formats like WebP and AVIF. You’ll also learn how to use Lighthouse and WebPageTest for auditing.",
+    "image": "https://i.ibb.co/0F5JqBd/web-performance.jpg"
+  },
+  {
+    "id": 5,
+    "title": "react",
+    "slug": "beginners-guide-nextjs-14",
+    "category": "Development",
+    "date": "2025-05-25",
+    "excerpt": "Next.js 14 is a game changer for React developers. Learn the essential features like app directory, server components, routing, and data fetching patterns in this beginner-friendly guide to building modern, production-grade web applications.",
+    "description": "Next.js 14 introduces exciting features such as enhanced server components, improved routing, and better image optimization. This guide walks you through installation, page creation, dynamic routing, and deploying your app using Vercel.",
+    "image": "https://i.ibb.co/wWjvfjH/nextjs-guide.jpg"
+  },
+  {
+    "id": 6,
+    "title": "web3",
+    "slug": "rise-of-web3",
+    "category": "Technology",
+    "date": "2025-04-15",
+    "excerpt": "Web3 technology is reshaping the internet as we know it. Discover how decentralized apps, blockchain integration, and peer-to-peer networks empower users to take back control of their data and online presence in this beginner-friendly overview.",
+    "description": "Web3 promises a decentralized web powered by blockchain. This post covers the basics, including cryptocurrencies, NFTs, decentralized apps (dApps), smart contracts, and how these technologies will impact privacy, security, and online ownership.",
+    "image": "https://i.ibb.co/mBzWXpn/web3.jpg"
+  },
+  {
+    "id": 7,
+    "title": "design",
+    "slug": "design-trends-2025",
+    "category": "Design",
+    "date": "2025-06-05",
+    "excerpt": "Design trends in 2025 are all about immersive user experiences. From elegant micro-interactions to bold color gradients and typography, this guide highlights the top techniques used by leading designers to create visually stunning and user-friendly interfaces.",
+    "description": "From neumorphism to glassmorphism, 3D elements, motion UI, and dynamic color schemes – this article explores how these trends are being used in real-world websites and apps, including UI kits and inspiration from award-winning designers.",
+    "image": "https://i.ibb.co/7tVt7fq/design-trends.jpg"
+  },
+  {
+    "id": 8,
+    "title": "remote",
+    "slug": "remote-work-strategies",
+    "category": "Productivity",
+    "date": "2025-05-20",
+    "excerpt": "Remote work has become the norm in today’s tech-driven world. This post provides actionable tips to boost productivity, set boundaries, maintain team collaboration, and achieve a healthy work-life balance while working from home or anywhere in the world.",
+    "description": "Remote work has become the norm. Learn how to manage your time, set up a distraction-free workspace, use async communication tools like Slack and Notion, and balance work-life effectively. Includes tips from experienced dev teams.",
+    "image": "https://i.ibb.co/f4PhqGT/remote-work.jpg"
+  },
+  {
+    "id": 9,
+    "title": "typescript",
+    "slug": "typescript-for-large-projects",
+    "category": "Development",
+    "date": "2025-04-30",
+    "excerpt": "TypeScript is now a go-to solution for scalable app development. Learn how its strong typing system, tooling support, and robust structure can help teams manage complex codebases with confidence and fewer runtime bugs.",
+    "description": "TypeScript adds static typing to JavaScript, helping prevent bugs and improve maintainability. This post dives into how to use interfaces, type inference, modules, and strict mode to scale your apps effectively. Includes tooling tips too.",
+    "image": "https://i.ibb.co/2ktzyPz/typescript.jpg"
+  },
+  {
+    "id": 10,
+    "title": "accessibility",
+    "slug": "building-accessible-web-applications",
+    "category": "Development",
+    "date": "2025-05-10",
+    "excerpt": "Accessibility isn’t just a best practice—it’s essential for inclusivity. This article walks through the core principles of accessible web design, including semantic HTML, screen reader testing, ARIA roles, and keyboard navigability.",
+    "description": "Accessibility ensures that your websites and apps can be used by everyone, including people with disabilities. This post discusses WCAG principles, using semantic HTML, ARIA roles, keyboard navigation, screen reader testing, and real examples of inclusive design.",
+    "image": "https://i.ibb.co/xFq3FDJ/accessibility.jpg"
+  }
+]
