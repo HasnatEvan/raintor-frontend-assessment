@@ -70,7 +70,7 @@ const AboutSection = () => {
                 ease: 'easeOut',
                 type: 'tween',
               }}
-              viewport={{ once: false }} // ✅ animate every time in view
+              viewport={{ once: false }} 
               className={`z-10 px-7 py-3 rounded-full text-sm whitespace-nowrap shadow-lg border-2 cursor-pointer select-none
                 ${item.dark
                   ? 'bg-black text-white border-white border-dashed'

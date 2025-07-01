@@ -31,7 +31,7 @@ const HeroSection = () => {
   const formatText = (text) => {
     const words = text.split(' ');
     return words.map((word, index) => {
-      // হাইলাইট করার জন্য এখানে পরিবর্তন করতে পারো
+     
       const isHighlighted = word === 'Partner' || word === 'Develop';
       return (
         <span
@@ -77,12 +77,12 @@ const HeroSection = () => {
       {/* Main Content */}
       <div className="relative z-20 text-center sm:text-left max-w-md sm:max-w-2xl md:max-w-3xl px-2 sm:px-4">
         <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-black min-h-[4rem]">
-          {/* প্রথম লাইন: fixed */}
+   
           {formatText('Trusted Partner For')}
           <br />
-          {/* দ্বিতীয় লাইন: টাইপিং এনিমেশন */}
+     
           {formatText(displayText)}
-          {/* টাইপিং শেষ হলে '.' যোগ করবে */}
+        
           {charIndex === cleanText.length && '.'}
           <span className="animate-pulse">|</span>
         </h1>
